@@ -1,0 +1,6 @@
+name: Bankai
+main: me.libraryaddict.Bankai.Bankai
+version: 1.2
+commands:
+  bankai:
+  hallow:
